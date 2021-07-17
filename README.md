@@ -25,9 +25,9 @@
 
 #### ■ 注意事项
 ##### 1：此脚本仅支持Ubuntu系统和CentOS系统
-##### 2：运行脚本安装Docker并下载TopMininG专供rizon镜像进行节点部署（TopMininG专供rizon镜像为官方编译的纯净打包版无任何修改可放心使用） 
+##### 2：运行脚本安装Docker并下载TopMininG专供rizon镜像进行节点部署（TopMininG专供镜像为官方编译的纯净打包版无任何修改可放心使用） 
 ##### 3：如因系统防火墙或云服务防火墙原因无法用次脚本下载安装Docker，请自行咨询服务商了解相应的Docker安装方法并手动安装Docker
-##### 4：非TopMininG专供rizon镜像部署的节点运行此脚本无效（TopMininG专供rizon镜像为官方编译的纯净打包版无任何修改可放心使用） 
+##### 4：非TopMininG专供rizon镜像部署的节点运行此脚本无效（TopMininG专供镜像为官方编译的纯净打包版无任何修改可放心使用） 
 ##### 5：Ubuntu系统需先执行sudo apt update 确保系统软件依赖包为最新
 ##### 6：Centos系统需先执行sudo yum update 确保系统软件依赖包为最新
 
