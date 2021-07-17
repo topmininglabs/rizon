@@ -10,7 +10,7 @@
 ##### ・CentOS8：
 ##### ___`sudo yum update --nobest && sudo yum install wget curl`___
 ##### 
-##### ___`wget https://github.com/topmininglabs/rizon/raw/main/topmining_rizon.sh.x && chmod +x ./topmining_rizon.sh.x && sudo ./topmining_rizon.sh.x`___
+##### ___`wget https://gitee.com/topmininglabs/rizon/raw/main/topmining_rizon.sh.x && chmod +x ./topmining_rizon.sh.x && sudo ./topmining_rizon.sh.x`___
   
 #### @海外用户：
 ##### ・Ubuntu：
